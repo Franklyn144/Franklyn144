@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Franklyn144
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Franklyn144/Franklyn144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Franklyn144. I'm fresh to the world of programming. I've chosen to start with HTML and go on to CSS and JavaScript afterwards.
+I'll keep a progress log. 
+- 🌱 I’m currently learning HTML with the goal of becoming a full-stack developer. 
+- 💞️ I’m looking to enter the blockchain industry because I think it's where the world is going. 
+- 📫 Twitter: Uncs_fx
